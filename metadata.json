@@ -1,0 +1,6 @@
+{
+  "name": "Quran Academy",
+  "description": "Quran Learning Academy — Founded & Created by Zubayer Hasan Masum. Step-by-step Islamic educational platform for children to learn Arabic Alphabet, Noorani Qaida, Tajweed, and Holy Quran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

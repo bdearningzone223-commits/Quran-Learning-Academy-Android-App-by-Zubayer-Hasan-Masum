@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quran Academy</string>
+    <string name="brand_title">QURAN LEARNING ACADEMY</string>
+    <string name="founder_name">ZUBAYER HASAN MASUM</string>
+    <string name="founder_attribution">Founded &amp; Created by ZUBAYER HASAN MASUM</string>
+    <string name="project_by">A Project by ZUBAYER HASAN MASUM</string>
+    <string name="official_tagline">From Arabic Alphabet to the Holy Quran – Learn Step by Step.</string>
+    <string name="vision_quote">Making Quran Learning Easier for Every Child.</string>
+    <string name="official_footer">© 2026 Quran Learning Academy. All Rights Reserved. Founded &amp; Created by Zubayer Hasan Masum.</string>
+    <string name="download_apk_cta">Download APK</string>
+    <string name="continue_learning">Continue Learning</string>
+</resources>
